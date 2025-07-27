@@ -1,2 +1,2 @@
 # First-Repo
-Arihant
+Arihant - author
